@@ -1,0 +1,890 @@
+[
+    {
+        "text": "Hey everyone, I'm the Canadian lad.",
+        "start": 4970,
+        "end": 6346,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6632096171379089,
+        "speaker": null
+    },
+    {
+        "text": "And today, for the first time ever on the channel, I'm gonna talk about an Indian movie called Jawan and how Hollywood and Marvel can learn from it.",
+        "start": 6378,
+        "end": 13454,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7091464400291443,
+        "speaker": null
+    },
+    {
+        "text": "Have you ever watched a movie in a theater and couldn't stop thinking about it for days?",
+        "start": 13492,
+        "end": 17006,
+        "sentiment": "POSITIVE",
+        "confidence": 0.4760526716709137,
+        "speaker": null
+    },
+    {
+        "text": "Well, this movie did that for me.",
+        "start": 17108,
+        "end": 18942,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8354088068008423,
+        "speaker": null
+    },
+    {
+        "text": "Some of the action scenes in this movie are unlike anything I've seen before, and what's really great is that it has strong female characters without making the male characters look bad.",
+        "start": 18996,
+        "end": 28518,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9723715782165527,
+        "speaker": null
+    },
+    {
+        "text": "This is something missing in Hollywood right now, especially in Marvel movies, where they try to create strong female characters, but often don't succeed.",
+        "start": 28604,
+        "end": 35922,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.6998552680015564,
+        "speaker": null
+    },
+    {
+        "text": "But Jawan is a great example of how to balance both aspects.",
+        "start": 35986,
+        "end": 39330,
+        "sentiment": "POSITIVE",
+        "confidence": 0.7405479550361633,
+        "speaker": null
+    },
+    {
+        "text": "Now, I've come up with three important points that Hollywood can learn from Jawan to return to its previous glory.",
+        "start": 39410,
+        "end": 44790,
+        "sentiment": "POSITIVE",
+        "confidence": 0.5148714780807495,
+        "speaker": null
+    },
+    {
+        "text": "But before I share those points, let me tell you about an amazing multiplayer action military game, War Thunder.",
+        "start": 44870,
+        "end": 50054,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9460358023643494,
+        "speaker": null
+    },
+    {
+        "text": "It's free to play and available across all platforms on Mac, PC, Xbox and PlayStation, so you can play with your friends no matter what device they're using.",
+        "start": 50102,
+        "end": 58478,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9280308485031128,
+        "speaker": null
+    },
+    {
+        "text": "What makes this game different is the insane variety of military vehicles in game, including prototypes of ground, air and sea vehicles that I've never seen before.",
+        "start": 58564,
+        "end": 67258,
+        "sentiment": "POSITIVE",
+        "confidence": 0.6488791108131409,
+        "speaker": null
+    },
+    {
+        "text": "A new recent update has been released in War Thunder, called Lar Royal, which, if you can tell from the name, is a French fleet led by the Battleship Harris, with legendary crafts such as the BTR 80 and Su 39 included, plus much more.",
+        "start": 67364,
+        "end": 80598,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7513375878334045,
+        "speaker": null
+    },
+    {
+        "text": "The attention to detail in the graphics of this game is incredible, like small parts flying off a tank when it explodes, and Warthunder's latest update significantly refined the graphics for even more realistic battles.",
+        "start": 80684,
+        "end": 91890,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9534278512001038,
+        "speaker": null
+    },
+    {
+        "text": "If you're looking for an action packed battle experience like no other, I'd highly suggest downloading war Thunder for free through my link in description.",
+        "start": 91970,
+        "end": 98182,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8356758952140808,
+        "speaker": null
+    },
+    {
+        "text": "All new players and players who've been dormant for six plus months are eligible to receive some goodies rentals for the P 40 E, one aircraft, an M four tank for a week, plus free unique skins for them, a special decorator, eagle of valor, 100,000 silver lines, three premium vehicles for free, a week of premium account, and even more gifts.",
+        "start": 98246,
+        "end": 116542,
+        "sentiment": "POSITIVE",
+        "confidence": 0.780895471572876,
+        "speaker": null
+    },
+    {
+        "text": "The American vehicle bonus season will end soon, so act fast.",
+        "start": 116606,
+        "end": 120018,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6107338666915894,
+        "speaker": null
+    },
+    {
+        "text": "Alright, let me quickly summarize the movie to provide some context.",
+        "start": 120104,
+        "end": 122990,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.883202075958252,
+        "speaker": null
+    },
+    {
+        "text": "Azad Rator is a jailer of a woman's prison in Mumbai.",
+        "start": 123070,
+        "end": 126414,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.5559239387512207,
+        "speaker": null
+    },
+    {
+        "text": "He's a kind and compassionate man, but he's also haunted by a tragic past.",
+        "start": 126462,
+        "end": 130486,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.4677508771419525,
+        "speaker": null
+    },
+    {
+        "text": "His father, Vikram Rattor, a soldier, was killed by a powerful and corrupt businessman named Kali.",
+        "start": 130588,
+        "end": 136354,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.711436927318573,
+        "speaker": null
+    },
+    {
+        "text": "And to make matters worse, Kali orchestrated the imprisonment of Vikram's wife, Vidipika, who faced a death sentence.",
+        "start": 136402,
+        "end": 142262,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.9201853275299072,
+        "speaker": null
+    },
+    {
+        "text": "And just before her execution, she reveals she's carrying a Zad.",
+        "start": 142326,
+        "end": 145734,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.733746349811554,
+        "speaker": null
+    },
+    {
+        "text": "And according to Indian law, you cannot execute a pregnant woman until the child reaches the age of five.",
+        "start": 145782,
+        "end": 151098,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.5867210030555725,
+        "speaker": null
+    },
+    {
+        "text": "Thus, she gives birth to Azad inside the prison itself and raises him for those five years.",
+        "start": 151184,
+        "end": 156430,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.9205193519592285,
+        "speaker": null
+    },
+    {
+        "text": "And just before her execution, she asks her son to make a promise that when he grows up, he will avenge his father's death, as well as bring justice to all the women who are put in prison wrongfully.",
+        "start": 156500,
+        "end": 166670,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6186232566833496,
+        "speaker": null
+    },
+    {
+        "text": "Now cut to 30 years later, we see Azad all grown up and leading a group of six female inmates.",
+        "start": 166750,
+        "end": 172510,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8658044338226318,
+        "speaker": null
+    },
+    {
+        "text": "Together, they embark on a series of daring actions, including hijacking a metro, kidnapping a prominent political figure and stealing voting machines, all with the aim of extracting ransom money.",
+        "start": 172590,
+        "end": 183142,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.546289324760437,
+        "speaker": null
+    },
+    {
+        "text": "Now, Azad uses the ransom money to help the poor and oppressed.",
+        "start": 183196,
+        "end": 186562,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.5944084525108337,
+        "speaker": null
+    },
+    {
+        "text": "However, helping the poor people isn't his only motive, as he does all this Robin Hood like deeds in the name of his late father, Vikram Rator, thereby restoring honor to his family name.",
+        "start": 186626,
+        "end": 196490,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.642439067363739,
+        "speaker": null
+    },
+    {
+        "text": "But one day, Kali's henchmen capture Azad and his wife Narmada.",
+        "start": 196560,
+        "end": 200214,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.694625198841095,
+        "speaker": null
+    },
+    {
+        "text": "But to their rescue comes Vikram Rator, himself presumed dead for the past three decades.",
+        "start": 200262,
+        "end": 205290,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.527956485748291,
+        "speaker": null
+    },
+    {
+        "text": "And then we learn Vikram actually survived 30 years ago, but lost his memory.",
+        "start": 205370,
+        "end": 209562,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5559605956077576,
+        "speaker": null
+    },
+    {
+        "text": "Although he understands that Azad is his son, but doesn't feel anything, as it all sounds like a story to him.",
+        "start": 209626,
+        "end": 215054,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6915213465690613,
+        "speaker": null
+    },
+    {
+        "text": "But long story short, the father and son duo then fight the main villain.",
+        "start": 215092,
+        "end": 218446,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8155398368835449,
+        "speaker": null
+    },
+    {
+        "text": "And there, Vikram's memory starts to come back.",
+        "start": 218478,
+        "end": 220850,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8540416359901428,
+        "speaker": null
+    },
+    {
+        "text": "We get an epic showdown where Azad and Vikram exact justice by subjecting Kali to the same fate he had imposed on Dipika.",
+        "start": 220920,
+        "end": 228334,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.780173122882843,
+        "speaker": null
+    },
+    {
+        "text": "All right, so now that you know the summary of the movie, let's begin the video.",
+        "start": 228382,
+        "end": 231526,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8318401575088501,
+        "speaker": null
+    },
+    {
+        "text": "Number one, women empowerment.",
+        "start": 231628,
+        "end": 233154,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7137235403060913,
+        "speaker": null
+    },
+    {
+        "text": "Done right now.",
+        "start": 233202,
+        "end": 234166,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6650748252868652,
+        "speaker": null
+    },
+    {
+        "text": "If you've seen the movie, you will notice that not even for a second, the movie goes out of its way to empower a woman.",
+        "start": 234188,
+        "end": 239698,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5058015584945679,
+        "speaker": null
+    },
+    {
+        "text": "Strong female characters are just written in the story itself.",
+        "start": 239794,
+        "end": 242954,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8602213263511658,
+        "speaker": null
+    },
+    {
+        "text": "It didn't need to be said.",
+        "start": 243072,
+        "end": 244378,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5833297967910767,
+        "speaker": null
+    },
+    {
+        "text": "Let me give you an example.",
+        "start": 244464,
+        "end": 245498,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7908132076263428,
+        "speaker": null
+    },
+    {
+        "text": "Nirmada, played by Nayantara, is the head of Force One, she is a single mother, and not even for a second.",
+        "start": 245584,
+        "end": 251050,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7985533475875854,
+        "speaker": null
+    },
+    {
+        "text": "She begs the society to be empathetic towards her because she recognizes the world's inherent challenges and has learned to navigate them.",
+        "start": 251120,
+        "end": 257502,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5045473575592041,
+        "speaker": null
+    },
+    {
+        "text": "Her decision to marry Azad is not driven by personal necessity, but by her desire to provide her daughter with a father figure.",
+        "start": 257556,
+        "end": 263998,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8511800765991211,
+        "speaker": null
+    },
+    {
+        "text": "She understands that in order to serve her country effectively, she requires someone to look after her daughter should anything happen to her.",
+        "start": 264084,
+        "end": 270482,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7507139444351196,
+        "speaker": null
+    },
+    {
+        "text": "And that is a character who is secure in her position, isn't afraid of anybody, and maintains a profound awareness of her surroundings.",
+        "start": 270536,
+        "end": 277438,
+        "sentiment": "POSITIVE",
+        "confidence": 0.7161558270454407,
+        "speaker": null
+    },
+    {
+        "text": "Now, let's take another character, Kelkie, for example.",
+        "start": 277534,
+        "end": 279950,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8658272624015808,
+        "speaker": null
+    },
+    {
+        "text": "Her father was a farmer, but couldn't pay off a debt he owed to the bank.",
+        "start": 280040,
+        "end": 283442,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.7927443981170654,
+        "speaker": null
+    },
+    {
+        "text": "So the bank tortured and humiliated him in public.",
+        "start": 283506,
+        "end": 286118,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.9341670274734497,
+        "speaker": null
+    },
+    {
+        "text": "As a result, her father killed himself.",
+        "start": 286204,
+        "end": 288450,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.9227247834205627,
+        "speaker": null
+    },
+    {
+        "text": "And just when she was about to bury her father, people from the bank came again, demanding loan repayment.",
+        "start": 288530,
+        "end": 293830,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.6553904414176941,
+        "speaker": null
+    },
+    {
+        "text": "And what does she do at that moment?",
+        "start": 293910,
+        "end": 295290,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8440541625022888,
+        "speaker": null
+    },
+    {
+        "text": "She kills the man who humiliated her father in public, leading to her arrest and a life sentence in prison.",
+        "start": 295360,
+        "end": 300694,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.9601321220397949,
+        "speaker": null
+    },
+    {
+        "text": "But not even once.",
+        "start": 300742,
+        "end": 301610,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.4975424110889435,
+        "speaker": null
+    },
+    {
+        "text": "She asks the public to feel her pain.",
+        "start": 301680,
+        "end": 303738,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.7224464416503906,
+        "speaker": null
+    },
+    {
+        "text": "Instead, she asks everybody to think about farmers like her father, who took their own life because of huge debts.",
+        "start": 303824,
+        "end": 309322,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.9210367798805237,
+        "speaker": null
+    },
+    {
+        "text": "So instead of asking for sympathy from the public for what she had to go through, she is now taking action so no other farmers die the way her father did.",
+        "start": 309386,
+        "end": 316590,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.5824702382087708,
+        "speaker": null
+    },
+    {
+        "text": "Instead of simply playing the victim card, she decided to stand up and address the issue at its core.",
+        "start": 316660,
+        "end": 321534,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6710514426231384,
+        "speaker": null
+    },
+    {
+        "text": "And that is what I call a strong female character.",
+        "start": 321582,
+        "end": 324190,
+        "sentiment": "POSITIVE",
+        "confidence": 0.7112635374069214,
+        "speaker": null
+    },
+    {
+        "text": "Number two, the overblown actions.",
+        "start": 324270,
+        "end": 326158,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.7724927663803101,
+        "speaker": null
+    },
+    {
+        "text": "You know, it's been years since I've seen over the top action scenes in a Marvel movie.",
+        "start": 326254,
+        "end": 329794,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5713192820549011,
+        "speaker": null
+    },
+    {
+        "text": "I think the last time we saw some unique action scenes was in Shangchi.",
+        "start": 329842,
+        "end": 333442,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8181378841400146,
+        "speaker": null
+    },
+    {
+        "text": "And prior to that, Avengers Endgame, Infinity War, Captain America, Civil War, Captain America, the Winter Soldier, Iron Man Three, and Thor, Ragnarok all featured this larger than life action sequences.",
+        "start": 333506,
+        "end": 343878,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6916253566741943,
+        "speaker": null
+    },
+    {
+        "text": "For instance, in the Incredible Hulk, Hulk literally splits a car into two, then smashes abomination with both halves until only the steering wheel remains in his hand.",
+        "start": 343974,
+        "end": 353450,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5680965781211853,
+        "speaker": null
+    },
+    {
+        "text": "These are what we often refer to as over the top or blown up action scenes, moments that may defy real world physics, but are entirely believable within the context of the characters and the movie.",
+        "start": 353520,
+        "end": 363354,
+        "sentiment": "POSITIVE",
+        "confidence": 0.7138447761535645,
+        "speaker": null
+    },
+    {
+        "text": "And Jawan is no exception when it comes to delivering such action packed moments.",
+        "start": 363402,
+        "end": 367582,
+        "sentiment": "POSITIVE",
+        "confidence": 0.6001245379447937,
+        "speaker": null
+    },
+    {
+        "text": "For example, the opening of the movie was something I wasn't expecting at all.",
+        "start": 367646,
+        "end": 371890,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.8148018717765808,
+        "speaker": null
+    },
+    {
+        "text": "Vikram Rathor had bandages all over his body when a tribal village was attacked.",
+        "start": 371960,
+        "end": 376734,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.739800751209259,
+        "speaker": null
+    },
+    {
+        "text": "We, of course, know that the man behind the bandages is SRK, but the way the movie reveals it by igniting the bandages allows us to gradually see him in his flesh.",
+        "start": 376782,
+        "end": 385890,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8108450770378113,
+        "speaker": null
+    },
+    {
+        "text": "Then comes his second entry into the movie, this one.",
+        "start": 385970,
+        "end": 388502,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.861449122428894,
+        "speaker": null
+    },
+    {
+        "text": "And here, SRK, in the middle of a hand to hand combat, hides the cigar completely in his mouth, headbutts two guys, and then brings the cigar back in his lips.",
+        "start": 388556,
+        "end": 397062,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7015696167945862,
+        "speaker": null
+    },
+    {
+        "text": "And towards the end, he didn't have a lighter to light up his cigar.",
+        "start": 397126,
+        "end": 399862,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.5501195788383484,
+        "speaker": null
+    },
+    {
+        "text": "So what he did instead was something I don't think I've ever seen in a movie before.",
+        "start": 399926,
+        "end": 404538,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.6338822841644287,
+        "speaker": null
+    },
+    {
+        "text": "It goes like this.",
+        "start": 404624,
+        "end": 405494,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.735964298248291,
+        "speaker": null
+    },
+    {
+        "text": "He's on a motorcycle being chased by a lot of vehicles.",
+        "start": 405552,
+        "end": 408234,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.647615909576416,
+        "speaker": null
+    },
+    {
+        "text": "He then puts on the brakes and slides his bike with the metallic heel of his shoe.",
+        "start": 408282,
+        "end": 412042,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8697479963302612,
+        "speaker": null
+    },
+    {
+        "text": "Now he rubs his heel on the road so hard that Spark's flame started rising from the ground, which went high enough to light up the cigar in his mouth.",
+        "start": 412106,
+        "end": 419662,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7687176465988159,
+        "speaker": null
+    },
+    {
+        "text": "He then uses the lit up cigar to explode his own motorcycle, thereby obliterating a bunch of goons.",
+        "start": 419726,
+        "end": 424910,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.49430716037750244,
+        "speaker": null
+    },
+    {
+        "text": "Now, I know this defies every law of physics there, but that's exactly the point.",
+        "start": 424990,
+        "end": 429478,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.49131521582603455,
+        "speaker": null
+    },
+    {
+        "text": "Blown up action scenes aren't supposed to feel grounded.",
+        "start": 429564,
+        "end": 432402,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.8191882371902466,
+        "speaker": null
+    },
+    {
+        "text": "They're meant to be so outrageously over the top that they blur the line between our hero and a superhero.",
+        "start": 432466,
+        "end": 437682,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.8369577527046204,
+        "speaker": null
+    },
+    {
+        "text": "And that's what's been missing in the current Marvel phase four and five.",
+        "start": 437746,
+        "end": 440950,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.4962817132472992,
+        "speaker": null
+    },
+    {
+        "text": "Marvel Action used to be unique and had its own identity, but they have become somewhat lackluster and predictable.",
+        "start": 441020,
+        "end": 446230,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.707481324672699,
+        "speaker": null
+    },
+    {
+        "text": "Movies like Jawan serve as a reminder that Hollywood and Marvel can learn a thing or two about crafting truly blown up action sequences that captivate and surprise audiences.",
+        "start": 446310,
+        "end": 455466,
+        "sentiment": "POSITIVE",
+        "confidence": 0.7525056600570679,
+        "speaker": null
+    },
+    {
+        "text": "Number three, real consequences.",
+        "start": 455578,
+        "end": 457258,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5658471584320068,
+        "speaker": null
+    },
+    {
+        "text": "Out of all this larger than life action scenes, you may think the movie doesn't show us real consequences at all.",
+        "start": 457354,
+        "end": 462830,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.6455127596855164,
+        "speaker": null
+    },
+    {
+        "text": "But two of the major characters actually die in the film.",
+        "start": 462900,
+        "end": 465802,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.743470311164856,
+        "speaker": null
+    },
+    {
+        "text": "One is Vikram Ratur's wife, and the other is Lakshmi, one of the six girls from Azad's team.",
+        "start": 465866,
+        "end": 470802,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.9433655142784119,
+        "speaker": null
+    },
+    {
+        "text": "And no, they just don't die for the sake of giving an emotional touch to the story.",
+        "start": 470856,
+        "end": 474946,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6484313011169434,
+        "speaker": null
+    },
+    {
+        "text": "Their deaths actually have a huge impact on the storyline.",
+        "start": 475048,
+        "end": 478002,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7743234634399414,
+        "speaker": null
+    },
+    {
+        "text": "Typika's death gives us the origin story of Vikram and Azad, and Lakshmi's death enables Nirmada to join the team with Azad.",
+        "start": 478066,
+        "end": 485170,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8589687347412109,
+        "speaker": null
+    },
+    {
+        "text": "Unlike the recent Secret Invasion series, where Agent Maria Hill, one of the most beloved characters since Avengers one, got killed for no good reason.",
+        "start": 485250,
+        "end": 492966,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.6404443383216858,
+        "speaker": null
+    },
+    {
+        "text": "So, yes, the movie Jawan has a lot to take away from it.",
+        "start": 493068,
+        "end": 496074,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5291176438331604,
+        "speaker": null
+    },
+    {
+        "text": "I've mentioned three good things about the film, and I didn't even talk about the plot at all, which in and of itself needs a separate video.",
+        "start": 496112,
+        "end": 502378,
+        "sentiment": "POSITIVE",
+        "confidence": 0.7905749082565308,
+        "speaker": null
+    },
+    {
+        "text": "We do have good storytellers here at Marvel and Hollywood, but what seems to be missing right now is dedication and passion.",
+        "start": 502464,
+        "end": 508234,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5114369988441467,
+        "speaker": null
+    },
+    {
+        "text": "But Jawan seems like a movie that was made with love and care.",
+        "start": 508282,
+        "end": 511998,
+        "sentiment": "POSITIVE",
+        "confidence": 0.6325305104255676,
+        "speaker": null
+    },
+    {
+        "text": "The writers didn't leave any massive plot holes for us to say the movie isn't good.",
+        "start": 512084,
+        "end": 516362,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.712794303894043,
+        "speaker": null
+    },
+    {
+        "text": "Almost no scenes in the movie felt forced or extra.",
+        "start": 516436,
+        "end": 519346,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5667595267295837,
+        "speaker": null
+    },
+    {
+        "text": "So, yes, we got a lot to learn from Indian movies, especially the way they empower women through their stories, execute the overblown action scenes, and the way the characters face real consequences.",
+        "start": 519448,
+        "end": 529438,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5454795956611633,
+        "speaker": null
+    },
+    {
+        "text": "Jawan may not cater to every audience, but for those seeking a blend of action, drama and pure entertainment, then this movie is a must watch for you.",
+        "start": 529534,
+        "end": 536502,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8769023418426514,
+        "speaker": null
+    },
+    {
+        "text": "And the background score of this movie literally gave me chills.",
+        "start": 536556,
+        "end": 539298,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9471990466117859,
+        "speaker": null
+    },
+    {
+        "text": "Like Avengers, Endgame and Thor Ragnarok did, for example, the Jawan title track plays out for both the father and son.",
+        "start": 539314,
+        "end": 545530,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.876287579536438,
+        "speaker": null
+    },
+    {
+        "text": "But when only Vikram is on screen, we hear the lyric Jawan, because Jawan means a soldier in Hindi, and Vikram is a soldier.",
+        "start": 545600,
+        "end": 552742,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7703701257705688,
+        "speaker": null
+    },
+    {
+        "text": "So even the background score has literally syregs in the film.",
+        "start": 552806,
+        "end": 555674,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7132959961891174,
+        "speaker": null
+    },
+    {
+        "text": "I hope SRK sees this video and makes more movies like these, because at the end of the day, what are movies made for?",
+        "start": 555722,
+        "end": 561422,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6581887602806091,
+        "speaker": null
+    },
+    {
+        "text": "Pure entertainment.",
+        "start": 561476,
+        "end": 562362,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8279616236686707,
+        "speaker": null
+    },
+    {
+        "text": "And that's what you're gonna get watching Joanne.",
+        "start": 562426,
+        "end": 564506,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7811103463172913,
+        "speaker": null
+    },
+    {
+        "text": "And with that, I'll end today's video.",
+        "start": 564538,
+        "end": 565934,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.787839949131012,
+        "speaker": null
+    },
+    {
+        "text": "I'll see you lads in the next one.",
+        "start": 565972,
+        "end": 567740,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5972098708152771,
+        "speaker": null
+    }
+]

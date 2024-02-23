@@ -1,0 +1,8 @@
+from api_info import API_KEY
+from speechrecognition import *
+import sys
+
+filename = sys.argv[1]
+
+audio_url = upload(filename)
+save_transcript(audio_url, filename)
