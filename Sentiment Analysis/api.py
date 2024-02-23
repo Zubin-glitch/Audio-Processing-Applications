@@ -1,14 +1,14 @@
 import requests
-from api_info import API_KEY
 import time
 import json
+import os
 
 # upload the file to AAI servers through the API
 
 upload_endpoint = 'https://api.assemblyai.com/v2/upload'
 transcript_endpoint = 'https://api.assemblyai.com/v2/transcript'
 
-auth_header = {"authorization": API_KEY}
+auth_header = {"authorization": os.getenv('API_KEY')}
 
 def upload(filename):
 

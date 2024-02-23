@@ -1,16 +1,16 @@
 import requests
-from api_info import API_KEY_AAI, API_KEY_LISTENNOTES
 import time
 import json
 import pprint
+import os
 
 # episode_id = cd379c36abd94d32a1b3fbbadf26b597
 
 transcript_endpoint = 'https://api.assemblyai.com/v2/transcript'
 listennotes_episode_endpoint = 'https://listen-api.listennotes.com/api/v2/episodes'
 
-aai_auth_header = {"authorization": API_KEY_AAI}
-listennotes_auth_header = {"X-ListenAPI-Key": API_KEY_LISTENNOTES}
+aai_auth_header = {"authorization": os.getenv('API_KEY_AAI')}
+listennotes_auth_header = {"X-ListenAPI-Key": os.getenv('API_KEY_LISTENNOTES')}
 
 def get_episode_audio_url(episode_id):
     episode_url = listennotes_episode_endpoint + '/' + episode_id
