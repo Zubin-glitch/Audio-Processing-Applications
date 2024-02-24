@@ -1,4 +1,3 @@
-from api_info import API_KEY
 from speechrecognition import *
 import sys
 
