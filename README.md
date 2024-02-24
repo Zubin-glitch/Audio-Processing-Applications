@@ -17,7 +17,7 @@ Provide a brief overview of your project, its purpose, and its goals. Mention an
 
 This project is organized into four directories, each containing code for specific tasks:
 
-1. **Speech Recognition 101**: Contains code for basic speech recognition using PyAudio and how to visualize the data given.
+1. **Speech Recognition 101**: Contains code for basic speech recognition using PyAudio for live recording on your device and how to visualize collected data for better analysis.
 2. **Sentiment Analysis**: Contains code for sentiment analysis of audio files using Assembly AI's API.
 3. **Podcast Summarization**: Contains code for podcast summarization with a creative Streamlit user interface.
 4. **Real-Time Speech Recognition**: Contains code for real-time speech recognition using AAI's speech recognition model with OpenAI API integration to transcribe speech and generate responses using ChatGPT.
