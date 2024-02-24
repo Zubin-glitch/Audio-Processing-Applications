@@ -13,7 +13,7 @@ def create_audio_file(video_url):
     print(f"Creating YouTube object...")
     yt = YouTube(video_url)
     video_title = yt.title
-    print("Genrating audio file from given video url...")
+    print("Generating audio file from given video url...")
     audio_stream = yt.streams.filter(only_audio=True).first()
 
     ffmpeg.get_ffmpeg_exe()
